@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		}
+  ],
+  "settings": {
+    "files.associations": {
+      "interStripDistance_Analysis.C": "cpp",
+    },
+    "C_Cpp.default.includePath": [
+      "${default}",
+      "/home/ashish/root/include"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "albertopdrf.root-file-viewer",
+      "ms-vscode.cpptools"
+    ]
+  }
+}
